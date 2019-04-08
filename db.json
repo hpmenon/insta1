@@ -33,86 +33,119 @@
 
 	"comments": [{
 			"id": 1,
+			"handle": "Homer",
 			"body": "some comment for post 1",
+			"last_updated": "2019-04-08T12:53:49+0000",
+			"likes": 0,
 			"postId": 1
 		},
 		{
 			"id": 2,
+			"handle": "Lisa",
 			"body": "another comment for post 1",
+			"last_updated": "2019-04-08T13:53:49+0000",
+			"likes": 1,
 			"postId": 1
 		},
 
 		{
 			"id": 3,
+			"handle": "Lisa",
 			"body": "some comment for post 2",
+			"last_updated": "2019-04-08T14:53:49+0000",
+			"likes": 100,
 			"postId": 2
 		},
 
 		{
 			"id": 4,
+			"handle": "Abe",
 			"body": "comment 1 for post 3",
+			"last_updated": "2019-04-08T14:13:49+0000",
+			"likes": 0,
 			"postId": 3
 		},
 		{
 			"id": 5,
+			"handle": "Burns",
 			"body": "comment 2 for post 3",
+			"last_updated": "2019-04-08T14:23:49+0000",
+			"likes": 0,
 			"postId": 3
 		},
 		{
 			"id": 7,
+			"handle": "Homer",
 			"body": "comment 3 for post 3",
+			"last_updated": "2019-04-08T10:23:49+0000",
+			"likes": 0,
 			"postId": 3
 		},
 		{
 			"id": 8,
+			"handle": "Marge",
 			"body": "comment 4 for post 3",
+			"last_updated": "2019-04-08T10:53:49+0000",
+			"likes": 0,
 			"postId": 3
 		},
 		{
 			"id": 9,
+			"handle": "Bart",
 			"body": "comment 5 for post 3",
+			"last_updated": "2019-04-08T11:53:49+0000",
+			"likes": 0,
 			"postId": 3
 		},
 		{
 			"id": 10,
+			"handle": "Krusty",
 			"body": "comment 6 for post 3",
+			"last_updated": "2019-04-08T11:53:49+0000",
+			"likes": 0,
 			"postId": 3
 		},
 		{
 			"id": 11,
+			"handle": "Bart",
 			"body": "comment 7 for post 3",
+			"last_updated": "2019-04-08T17:20:49+0000",
+			"likes": 0,
 			"postId": 3
 		},
 		{
 			"id": 12,
+			"handle": "Maggie",
 			"body": "comment 8 for post 3",
+			"last_updated": "2019-04-08T17:21:49+0000",
+			"likes": 0,
 			"postId": 3
 		}
 	],
 
 	"profile": {
-		"name": "Maggie Simpson",
+		"name": "Maggie",
 		"profilepic": "https://upload.wikimedia.org/wikipedia/en/9/9d/Maggie_Simpson.png"
 	},
 
 	"stories": [{
-			"handle": "Lisa Simpson",
-			"last_updated": "",
+			"handle": "Lisa",
+			"last_updated": "2019-04-08T16:53:49+0000",
 			"profilepic": "https://upload.wikimedia.org/wikipedia/en/e/ec/Lisa_Simpson.png"
 		},
 		{
-			"handle": "Homer Simpson",
-			"last_updated": "",
+			"handle": "Homer",
+			"last_updated": "2019-04-09T16:53:49+0000",
 			"profilepic": "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png"
 		},
 		{
-			"handle": "Bart Simpson",
-			"last_updated": "",
+			"handle": "Bart",
+			"last_updated": "2019-04-01T16:53:49+0000",
 			"profilepic": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png"
 		},
 		{
-			"handle": "Marge Simpson",
-			"last_updated": "",
+			"handle": "Marge",
+			"last_updated": "2019-03-01T16:53:49+0000",
 			"profilepic": "https://upload.wikimedia.org/wikipedia/en/0/0b/Marge_Simpson.png"
 		}
 	]
