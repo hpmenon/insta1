@@ -1,0 +1,119 @@
+{
+	"posts": [{
+			"id": 1,
+			"title": "Post 1",
+			"likes": 10,
+			"image": ""
+		},
+		{
+			"id": 2,
+			"title": "Post 2",
+			"likes": 20,
+			"image": ""
+		},
+		{
+			"id": 3,
+			"title": "Post 3",
+			"likes": 15,
+			"image": ""
+		},
+		{
+			"id": 4,
+			"title": "Post 4",
+			"likes": 1,
+			"image": ""
+		},
+		{
+			"id": 5,
+			"title": "Post 5",
+			"likes": 0,
+			"image": ""
+		}
+	],
+
+	"comments": [{
+			"id": 1,
+			"body": "some comment for post 1",
+			"postId": 1
+		},
+		{
+			"id": 2,
+			"body": "another comment for post 1",
+			"postId": 1
+		},
+
+		{
+			"id": 3,
+			"body": "some comment for post 2",
+			"postId": 2
+		},
+
+		{
+			"id": 4,
+			"body": "comment 1 for post 3",
+			"postId": 3
+		},
+		{
+			"id": 5,
+			"body": "comment 2 for post 3",
+			"postId": 3
+		},
+		{
+			"id": 7,
+			"body": "comment 3 for post 3",
+			"postId": 3
+		},
+		{
+			"id": 8,
+			"body": "comment 4 for post 3",
+			"postId": 3
+		},
+		{
+			"id": 9,
+			"body": "comment 5 for post 3",
+			"postId": 3
+		},
+		{
+			"id": 10,
+			"body": "comment 6 for post 3",
+			"postId": 3
+		},
+		{
+			"id": 11,
+			"body": "comment 7 for post 3",
+			"postId": 3
+		},
+		{
+			"id": 12,
+			"body": "comment 8 for post 3",
+			"postId": 3
+		}
+	],
+
+	"profile": {
+		"name": "some name",
+		"profilepic": ""
+	},
+
+	"stories": [{
+			"handle": "contact 1",
+			"last_updated": "",
+			"profilepic": ""
+		},
+		{
+			"handle": "contact 2",
+			"last_updated": "",
+			"profilepic": ""
+		},
+		{
+			"handle": "contact 3",
+			"last_updated": "",
+			"profilepic": ""
+		},
+		{
+			"handle": "contact 4",
+			"last_updated": "",
+			"profilepic": ""
+		}
+	]
+}
